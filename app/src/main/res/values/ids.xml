@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="subj_name" type="id">subName</item>
+    <item name="pdf_image" type="id">pdfImage</item>
+
+
+</resources>

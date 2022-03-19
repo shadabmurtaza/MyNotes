@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:outlineAmbientShadowColor="@color/black"
+    android:layout_margin="5dp">
+
+    <ImageView
+        android:id="@+id/pdf_image"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/notes">
+
+    </ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="30dp"
+        android:text="Operating System"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+</LinearLayout>
